@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gayatri Khairnar</h1>
 <h3 align="center">A passionate Data Scientist constantly seeking fresh intellectual nourishment for the mind!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatrikhairnar&label=Profile%20views&color=0e75b6&style=flat" alt="gayatrikhairnar" /> </p>
+
 - 🔭 I’m currently working on **Brain Tumor Prediction**
 
 - 🌱 I’m currently learning **React and AI**
