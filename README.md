@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatrikhairnar&label=Profile%20views&color=0e75b6&style=flat" alt="gayatrikhairnar" /> </p>
 
-- 🔭 I’m currently working on **Brain Tumor Prediction**
+- 🔭 I’m currently working on **Usecases of AI in Healthcare**
 
 - 🌱 I’m currently learning **React and AI**
 
